@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Qual é seu país</title>
+</head>
+<body>
+    <h1> País de origem </h1>
+    Qual é o seu país? <input type="text" id="pais">
+    <input type="button" value="checar" onCLick="showCountry()">
+    <div id="res"></div>
+
+    <script>
+
+        function showCountry() {
+
+            var countryText = document.getElementById("pais");
+            var country = String(pais.value);
+            var res = document.getElementById('res')
+
+
+            res.innerHTML = `Seu pais é ${country}`
+            if (country == 'Brasil') {
+                res.innerHTML += ` <p> Você é brasileiro </p>`
+            } else {
+                res.innerHTML = ` <p>  Você é estrangeiro </p>`
+            }
+
+        }
+
+    </script>
+
+</body>
+</html>
