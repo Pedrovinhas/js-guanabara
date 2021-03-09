@@ -6,3 +6,7 @@
 
 # Sobre
 Repositório com os exercícios e anotações do curso.
+
+
+---
+<quote>  Feito por <a href="github/pedrovinhas"> Pedro Henrique Vinhas </a> 🪐 </quote>
