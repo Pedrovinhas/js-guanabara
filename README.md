@@ -15,27 +15,27 @@ Todo conteúdo abordado no curso foi documentado no Notion, e você pode acessar
    - Evolução da Linguagem
 
 2. **Modulo B - Comandos Básicos**
- - Variávies e tipos primitivos
- - Tratamento de dados
- - Operadores pt.1
- - Operadores pt.2
+   - Variávies e tipos primitivos
+   - Tratamento de dados
+   - Operadores pt.1
+   - Operadores pt.2
 
 3. **Modulo C - Entendendo o DOM (Document Object Model)**
-  - Introdução ao DOM
-  - Eventos DOM
+    - Introdução ao DOM
+    - Eventos DOM
 
 4. **Modulo D - Condições em JavaScript**
-  - Condições Simples `if`, Compostas `if else`
-  - Condições Aninhadas `switch case` e Múltiplas `else if`
-  - Exercícios JavaScript pt.1
- - Exercícios JavaScript pt.2
-  - Exercícios JavaScript pt.3
+    - Condições Simples `if`, Compostas `if else`
+    - Condições Aninhadas `switch case` e Múltiplas `else if`
+    - Exercícios JavaScript pt.1
+    - Exercícios JavaScript pt.2
+    - Exercícios JavaScript pt.3
 
 5. **Modulo E - Repetições em JavaScript**
-  - Repetições `while` e `do while`
-  - Repetições `for`
-  - Exercícios JavaScript pt.4
-  - Exercícios JavaScript pt.5
+    - Repetições `while` e `do while`
+    - Repetições `for`
+    - Exercícios JavaScript pt.4
+    - Exercícios JavaScript pt.5
 
 ---
 <blockquote>  Feito por <a href="github/pedrovinhas"> Pedro Henrique Vinhas </a> 🪐 </blockquote>
