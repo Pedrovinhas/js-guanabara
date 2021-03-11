@@ -4,9 +4,10 @@
 </div>
 
 
-# Sobre
+## Sobre
 Repositório com os exercícios e anotações do curso.
 
+## Conteudo
 
 ---
 <blockquote>  Feito por <a href="github/pedrovinhas"> Pedro Henrique Vinhas </a> 🪐 </blockquote>
