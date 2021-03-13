@@ -11,8 +11,8 @@ Repositório com os exercícios e anotações do curso.
 Todo conteúdo abordado no curso foi documentado no Notion, e você pode acessar cada um clicando no link da respectiva aula que deseja :D
 
 1. **Modulo A - Conhecendo o JavaScript**
-   - Intodução ao JavaScript  
-   - Evolução da Linguagem
+   - [Introdução ao JavaScript](https://www.notion.so/Curso-JavaScript-01-124661b55b184afda8413849d1267fbf)
+   - [Evolução da Linguagem](https://www.notion.so/Curso-JavaScript-02-9fa66b31dea041c8a003fe646da106cc)
 
 2. **Modulo B - Comandos Básicos**
    - Variávies e tipos primitivos
