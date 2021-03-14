@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analisador de Número</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1> Analisador de Número </h1>
+    </header>
+    
+    <section>
+        <div id="cont">
+            <input type="number" id="boxnumber" min="1" max="100">
+            <button id="add" onclick="adicionar()"> Adicionar </button>
+            <button id="analisar" onclick="analisar()"> Analisar </button>
+        </div>
+           
+        <div id="res">
+            <p id="resultado"> </p>
+            <p id="erros"> </p>
+        </div>
+    
+    </section>
+    
+    <footer>
+        <p>&copy; Desenvolvido por <a href="github/pedrovinhas" target="_blank">Pedro Henrique Vinhas</a></p>
+    </footer>
+
+    <script src="script.js"> </script>
+</body>
+</html>

@@ -1,0 +1,111 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body {
+    background: #121212;
+    font: normal 15pt Arial;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+
+}
+
+header {
+    color: white;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+section {
+    background: white;
+    max-width: 600px;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+
+footer {
+    color: white;
+    text-align:center;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+h1 {
+    font-size: 1.5rem;
+    
+}
+
+button {
+    padding: 5px 0px 5px 0px;
+    width: 150px;
+    margin-top: 10px;
+    border-radius: 10px;
+    background:rgba(0, 0, 0, 0.3);
+    transition: ease-in-out 0.5s;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+button:hover {
+    background:rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+#cont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#res {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#boxnumber {
+    padding: 10px 10px;
+    margin: 0 auto;
+    width: 150px;
+}
+
+a:link, a:visited  {
+    color: #FFF;
+    font-weight: bold;
+    transition-duration: .3s;
+    text-decoration: none;
+}
+
+a:active, a:hover {
+    color: tomato;
+}
+
+#erros {
+    color: black;
+    text-align: center;
+}
+
+p {
+    margin-top: 10px;
+}
+
+#resultado span {
+    display: inline-block;
+    margin: 2px;
+    width: 30px;
+    height: 30px;
+    background: black;
+    border-radius: 50%;
+    font-weight: bold;
+    text-align: center;
+    line-height: 30px;
+    color: #FFF;
+}
