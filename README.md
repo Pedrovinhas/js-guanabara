@@ -5,7 +5,7 @@
 
 
 ## Sobre
-Repositório com os exercícios e anotações do curso.
+Repositório do curso de [JavaScript](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2&ab_channel=CursoemV%C3%ADdeo) com os exercícios e anotações do curso.
 
 ## Conteudo
 Todo conteúdo abordado no curso foi documentado no Notion, e você pode acessar cada um clicando no link da respectiva aula que deseja :D
