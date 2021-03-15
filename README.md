@@ -4,10 +4,10 @@
 </div>
 
 
-## Sobre
+## 🖋 Sobre
 Repositório do curso de [JavaScript](https://www.youtube.com/watch?v=1-w1RfGIov4&list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1&index=2&ab_channel=CursoemV%C3%ADdeo) com os exercícios e anotações do curso.
 
-## Conteudo
+## 📄 Conteudo
 Todo conteúdo abordado no curso foi documentado no Notion, e você pode acessar cada um clicando no link da respectiva aula que deseja :D
 
 1. **Módulo A - Conhecendo o JavaScript**
@@ -44,6 +44,9 @@ Todo conteúdo abordado no curso foi documentado no Notion, e você pode acessar
    - [Funções](https://www.notion.so/Fun-es-Curso-JavaScript-16-0873fb0374c24534921e268441e02a30)
    - [Exercício JavaScript - Analisador de Número](https://github.com/Pedrovinhas/js-guanabara/tree/master/aula-21)
    - [Próximos Passos - Object](https://www.notion.so/Pr-ximos-Passos-Curso-JavaScript-17-8a502ec9996048f7a46fc12809e7b0f5)
+
+## 🥳 Como contribuir?
+Se esse projeto te ajudou de alguma forma, deixe uma ⭐️!
 
 ---
 <blockquote>  Feito por <a href="github/pedrovinhas"> Pedro Henrique Vinhas </a> 🪐 </blockquote>
