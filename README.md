@@ -2,7 +2,7 @@
   <h1> Curso de JavaScript Básico </h1>
   <p align="center"> 
     <a href="#-Sobre"> Sobre </a> •
-    <a href="#-Módulo A - Conhecendo o JavaScript"> Modulo A </a> •
+    <a href="#-Módulo-A-#-Conhecendo o JavaScript"> Modulo A </a> •
     <a href="#-Módulo B - Comandos Básicos"> Modulo B </a> •
     <a href="Modulo-C"> Modulo C </a> •
     <a href="Modulo-D"> Modulo D </a> •
