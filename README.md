@@ -2,13 +2,8 @@
   <h1> Curso de JavaScript Básico </h1>
   <p align="center"> 
     <a href="#-Sobre"> Sobre </a> •
-    <a href="#-Módulo-A-#-Conhecendo o JavaScript"> Modulo A </a> •
-    <a href="#-Módulo B - Comandos Básicos"> Modulo B </a> •
-    <a href="Modulo-C"> Modulo C </a> •
-    <a href="Modulo-D"> Modulo D </a> •
-    <a href="Modulo-E"> Modulo E </a> •
-    <a href="Modulo-F"> Modulo F </a> •
-    <a href="#-Como-contribuir"> Como-contribuir
+    <a href="#-Conte%C3%BAdo"> Conteúdo </a> •
+    <a href="#-Como-contribuir"> Como-contribuir </a>
   </p>
   <img width="250px"src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript.jpg">
 </div>
