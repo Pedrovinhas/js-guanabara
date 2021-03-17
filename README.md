@@ -1,13 +1,14 @@
 <div align="center">
   <h1> Curso de JavaScript Básico </h1>
   <p align="center"> 
-    <a> Sobre </a> •
-    <a> Modulo A </a> •
-    <a> Modulo B </a> •
-    <a> Modulo C </a> •
-    <a> Modulo D </a> •
-    <a href="#Modulo-e"> Modulo E </a> •
-    <a> Modulo F </a> •
+    <a href="#-Sobre"> Sobre </a> •
+    <a href="Modulo-A"> Modulo A </a> •
+    <a href="Modulo-B"> Modulo B </a> •
+    <a href="Modulo-C"> Modulo C </a> •
+    <a href="Modulo-D"> Modulo D </a> •
+    <a href="Modulo-E"> Modulo E </a> •
+    <a href="Modulo-F"> Modulo F </a> •
+    <a href="#-Como-contribuir"> Como-contribuir
   </p>
   <img width="250px"src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript.jpg">
 </div>
@@ -54,7 +55,7 @@ Todo conteúdo abordado no curso foi documentado no Notion, e você pode acessar
    - [Exercício JavaScript - Analisador de Número](https://github.com/Pedrovinhas/js-guanabara/tree/master/aula-21)
    - [Próximos Passos - Object](https://www.notion.so/Pr-ximos-Passos-Curso-JavaScript-17-8a502ec9996048f7a46fc12809e7b0f5)
 
-## 🥳 Como contribuir?
+## 🥳 Como contribuir
 Se esse projeto te ajudou de alguma forma, deixe uma ⭐️!
 
 ---
