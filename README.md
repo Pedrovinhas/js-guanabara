@@ -3,7 +3,7 @@
   <p align="center"> 
     <a href="#-Sobre"> Sobre </a> •
     <a href="#-Conte%C3%BAdo"> Conteúdo </a> •
-    <a href="#-Como-contribuir"> Como-contribuir </a>
+    <a href="#-Como-contribuir"> Como contribuir </a>
   </p>
   <img width="250px"src="https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript.jpg">
 </div>
